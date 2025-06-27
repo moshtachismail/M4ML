@@ -1,4 +1,4 @@
-A small explanation of the documents in this repository for out M4ML project
+A small explanation of the documents in this repository for our M4ML project
 
 Example_3 is a Jupyter Notebook document with the code which was needed to analyze and visualize everything that is noted in Example 3 of our essay. 
 Gradient_Decent is a PDF file with additional information and the mathematical equations solved to calculate the gradient descent
